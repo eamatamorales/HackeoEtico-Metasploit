@@ -1,6 +1,6 @@
 # Laboratorio Semama 9 - Explotación de Vulnerabilidades con Metasploit y KaliGPT (CY-203 Hackeo Ético)
 
-**Duración estimada:** 2.5 horas  
+**Duración estimada:** 1.5 horas  
 **Modalidad:** Práctica guiada en Kali Linux  
 **Objetivo:** Aplicar técnicas de explotación de vulnerabilidades utilizando **Metasploit Framework**, analizar cargas (payloads), automatizar ataques y utilizar inteligencia artificial (**KaliGPT**) como apoyo para decisiones estratégicas.
 
